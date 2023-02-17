@@ -1,0 +1,32 @@
+﻿{
+	"name": "New project",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"viewport-width": 854,
+	"viewport-height": 480,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "any",
+	"c2version": "279",
+	"ife": false,
+	"used-plugins": [
+		"Audio",
+		"Browser",
+		"Button",
+		"HTML_iFrame",
+		"Mouse",
+		"NinePatch",
+		"Pode_DragNDropZone",
+		"Rex_Date",
+		"Sprite",
+		"Spritefont2",
+		"Text",
+		"TextBox",
+		"Touch",
+		"WebStorage"
+	],
+	"used-behaviors": [
+	]
+}
